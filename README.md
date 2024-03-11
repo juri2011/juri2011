@@ -31,4 +31,5 @@
 </div>
 <hr>
 <h3><b>:mailbox: Contact </b></h3>
-:envelope: jurioh2011@gmail.com
+:envelope: jurioh2011@gmail.com<br>
+:memo: 개인 블로그 https://mongteedev.tistory.com/
